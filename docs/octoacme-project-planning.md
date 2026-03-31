@@ -39,5 +39,6 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Project kickoff held
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
-- [ ] Definition of Done documented
-- [ ] Initial test plan / QA approach drafted
+- [ ] Definition of Done documented (see [Cross-Functional Checklists](octoacme-cross-functional-checklists.md))
+- [ ] Definition of Ready agreed for pulling items into sprint
+- [ ] Initial test plan / QA approach drafted (QA Lead)
