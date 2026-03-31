@@ -17,8 +17,13 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
+- QA Lead: owns test strategy, defect management, and release quality gates.
+- UX Designer: delivers design specs and advocates for user experience quality.
+- Business Analyst: clarifies requirements and translates stakeholder needs into backlog items.
+- Technical Writer: maintains process and technical documentation.
 - Stakeholders: provide inputs and approvals.
+
+See [Roles & Personas](octoacme-roles-and-personas.md) for full definitions and interaction notes.
 
 ## Key Artifacts
 - Project Charter / One-pager
@@ -27,6 +32,7 @@ Applies to all cross-functional projects that deliver product features, services
 - Acceptance Criteria & Definition of Done
 - Risk Register
 - Retrospective notes and action items
+- Cross-functional handoff checklists and RACI matrix (see [Cross-Functional Checklists](octoacme-cross-functional-checklists.md))
 
 ## Lifecycle (high-level)
 1. Initiation: problem statement, stakeholders, high-level timeline.

@@ -21,7 +21,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Integration tests where applicable
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
-- Manual QA for feature acceptance when needed
+- Manual QA review by QA Lead for feature acceptance before release
 
 ## Reporting & Metrics
 - Track velocity and burndown
@@ -38,3 +38,4 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] Definition of Ready and Definition of Done agreed (see [Cross-Functional Checklists](octoacme-cross-functional-checklists.md))
